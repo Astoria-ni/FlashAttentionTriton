@@ -1,6 +1,10 @@
 # FlashAttention in Triton
 
-This repository contains a Triton-based reimplementation and extension of the FlashAttention algorithm, originally proposed by Dao et al. (2022), as part of a final project for COS 484: Natural Language Processing at Princeton University.
+This repository contains a Triton-based reimplementation and extension of the FlashAttention algorithm, originally proposed by Dao et al. (2022), as part of a final project for COS 484: Natural Language Processing at Princeton University. 
+
+📄 [**Project Report: [Re] FlashAttention Three Years On**](https://github.com/Astoria-ni/FlashAttentionTriton/blob/main/COS484_Final_Paper.pdf)  
+👤 Kia Ghods\*, Jishnu Roychoudhury\*, Addison Wu\*  
+\*All authors contributed equally.
 
 ## Overview
 
